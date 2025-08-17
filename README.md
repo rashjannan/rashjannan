@@ -16,10 +16,10 @@ Aspiring to work in chip design or hardware systems engineering 📈
 
 ---
 
-### 📂 Featured Projects
-🌟 [3-bit Counter in VHDL](#) – Coming soon!  
+### Featured Projects 📂
+[3-bit Counter in VHDL](#) – Coming soon!🌟 
 *(More projects will be added as I build my portfolio. Just started!)*
 
 ---
 
-📬 Connect with me: [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+Connect with me: [LinkedIn](https://linkedin.com/in/YOUR-LINK) 📬 
