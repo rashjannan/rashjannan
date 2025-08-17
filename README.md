@@ -1,8 +1,11 @@
 # Hi, I'm Rash 👋
 
-Second-year Computer Engineering student at McGill University 🎓 
+Second-year Computer Engineering student at McGill University 🎓
+
 Interested in FPGA design, digital logic, and embedded systems  💡
-Currently working on VHDL projects to build my hardware portfolio 🛠   
+
+Currently working on VHDL projects to build my hardware portfolio 🛠  
+
 Aspiring to work in chip design or hardware systems engineering 📈  
 
 ---
