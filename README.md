@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rash 👋
 
-<!--
-**rashjannan/rashjannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Engineering student at McGill University 🎓 
+Interested in FPGA design, digital logic, and embedded systems  💡
+Currently working on VHDL projects to build my hardware portfolio 🛠   
+Aspiring to work in chip design or hardware systems engineering 📈  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools 🔧
+- VHDL / Verilog (learning & building projects)
+- Digital Logic Design
+- FPGA Development (Quartus, ModelSim)
+- Python (working on C)
+- Networking & IT Support (from previous internship experience)
+
+---
+
+### 📂 Featured Projects
+🌟 [3-bit Counter in VHDL](#) – Coming soon!  
+*(More projects will be added as I build my portfolio. Just started!)*
+
+---
+
+📬 Connect with me: [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
