@@ -11,10 +11,10 @@ Aspiring to work in chip design or hardware systems engineering 📈
 ---
 
 ### Skills & Tools 🔧
-- VHDL / Verilog (learning & building projects)
+- VHDL (learning & building projects)
 - Digital Logic Design
 - FPGA Development (Quartus, ModelSim)
-- Python (working on C)
+- C
 - Networking & IT Support (from previous internship experience)
 
 ---
