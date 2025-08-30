@@ -1,4 +1,4 @@
-# Hi, I'm Rash 👋
+# Hey there!! I'm Rashad 😁
 
 Second-year Computer Engineering student at McGill University 🎓
 
